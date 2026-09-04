@@ -2,17 +2,17 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Sarahi quintero
+- Week: 1
+- Lab: 1
+- Date: 9-4-26
 
 ## AI Use
 
 Did you use an AI tool for this lab?
 
 - [ ] Yes
-- [ ] No
+- [x ] No
 
 If yes, complete the sections below. If no, write “No AI tool was used” under Summary.
 
@@ -50,4 +50,4 @@ Response:
 
 Provide any additional information about your use of AI for this lab.
 
-Response:
+Response: no Ai used
