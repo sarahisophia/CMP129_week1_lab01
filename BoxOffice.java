@@ -24,9 +24,9 @@ public class BoxOffice
         System.out.println("Movie Name:     "+MovieName);
         System.out.println("Adult Tickets Sold:      "+AdultTickets);
         System.out.println("Child Tickets Sold:      "+ChildTickets);
-        System.out.println("Gross Box Office Profit:      "+GrossProfit);
-        System.out.println("Net Box Proft:      "+NetProfit);
-        System.out.println("Amount Paid to Distributor:      "+TotalAmount);
+        System.out.printf("Gross Box Office Profit: $ %.2f\n",GrossProfit);
+        System.out.printf("Net Box Proft: $ %.2f\n",NetProfit);
+        System.out.printf("Amount Paid to Distributor: $ %.2f\n",TotalAmount);
         
     }
 }
